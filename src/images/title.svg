@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Archivo Black">@import url(https://fonts.googleapis.com/css2?family=Archivo+Black%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <text style="font-family: 'Archivo Black'; font-size: 26.1829px; font-weight: 700; letter-spacing: 0.1px; text-transform: uppercase; white-space: pre;" transform="matrix(2.774348020553589, 0, 0, 5.728930950164795, -221.0408391070614, -661.1407667738422)" x="81.25" y="147.188">TEAM INDIA</text>
+</svg>
